@@ -2,10 +2,13 @@
 
 Hier sind alle infos und Links die du brauchst.
 
-### Markdown
+### Q&A
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Q Was ist ein Link?
+A Ein Link ist etwas wo du drauf klickts und weitergeleited wirst.
 
+Q Wie benutze ich einen Link?
+A Ein Link benutzt du indem du drauf klickst.
 ```markdown
 Syntax highlighted code block
 
