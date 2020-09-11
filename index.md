@@ -14,7 +14,7 @@ A Ein Link benutzt du indem du drauf klickst.
 
 ###Links
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+ [LMVZ LOGIN](https://login.lmvz.ch/auth/realms/lmv/protocol/openid-connect/auth?response_type=code&client_id=ulm&redirect_uri=https%3A%2F%2Fdigital.lmvz.ch%2Fsso%2Flogin&state=3494b73b-1684-44da-aa7e-fd0ce8aa3b99&login=true&scope=openid).
 
 ### Jekyll Themes
 
