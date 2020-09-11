@@ -16,10 +16,7 @@ A Ein Link benutzt du indem du drauf klickst.
 
  [LMVZ LOGIN](https://login.lmvz.ch/auth/realms/lmv/protocol/openid-connect/auth?response_type=code&client_id=ulm&redirect_uri=https%3A%2F%2Fdigital.lmvz.ch%2Fsso%2Flogin&state=3494b73b-1684-44da-aa7e-fd0ce8aa3b99&login=true&scope=openid). [Tipp10](https://fksz.tipp10.com/en/) [Hausaufgaben](https://trello.com/b/JMlTSKYQ/hausaufgaben)
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Lolors17/Lolors17.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Hilfe
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Falls du hilfe oder fragen hast sage es mir direkt oder sende mir eine mail an lolors17yt@protonmail.com
