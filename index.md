@@ -14,7 +14,7 @@ A Ein Link benutzt du indem du drauf klickst.
 
 ### Links
 
- [LMVZ LOGIN](https://digital.lmvz.ch). [Mathematik](https://mathematik-sek1.ch). [Tipp10](https://fksz.tipp10.com/en/). [Hausaufgaben](https://trello.com/b/JMlTSKYQ/hausaufgaben).
+ [LMVZ LOGIN](https://digital.lmvz.ch). [Mathematik](https://www.lmvz.ch/schule/mathematik-sekundarstufe-i). [Tipp10](https://fksz.tipp10.com/en/). [Hausaufgaben](https://trello.com/b/JMlTSKYQ/hausaufgaben).
 
 
 ### Hilfe
