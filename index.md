@@ -2,6 +2,8 @@
 
 Hier sind alle infos und Links die du brauchst.
 
+### Neue Seite: [Klick](https://lolors17.github.io/neu)
+
 ### Q&A
 
 Q Was ist ein Link?
