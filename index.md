@@ -2,7 +2,7 @@
 
 Hier sind alle infos und Links die du brauchst.
 
-### Neue Seite: [Klick](https://lolors17.github.io/neu)
+### Neue Seite: [Klick](https://lolors17.github.io/new)
 
 ### Q&A
 
